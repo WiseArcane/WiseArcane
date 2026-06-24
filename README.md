@@ -4,7 +4,6 @@ software engineer • ml / ai researcher • building interactive systems
 
 <br>
 
-### (https://waisfolio.vercel.app)
 
 [![WiseArcane Portfolio Preview](portfolio-preview.jpg)](https://waisfolio.vercel.app)
 
