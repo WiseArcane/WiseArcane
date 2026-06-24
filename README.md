@@ -2,13 +2,11 @@
 
 software engineer • ml / ai researcher • building interactive systems
 
----
-
-### [🌐 visit portfolio](https://waisfolio.vercel.app)
+### [visit portfolio](https://waisfolio.vercel.app)
 
 ---
 
-## 🛠️ ecosystem
+## ecosystem
 
 ```json
 {
